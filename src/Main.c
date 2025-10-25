@@ -1,6 +1,3 @@
-#include "/home/codeleaded/System/Static/Library/ComponentPack.h"
-#include "/home/codeleaded/System/Static/Library/ComponentML.h"
-#include "/home/codeleaded/System/Static/Library/ComponentDefines.h"
 #include "/home/codeleaded/System/Static/Library/WindowEngine1.0.h"
 
 #define PADDLE_1_POSX       0.05f
