@@ -1,4 +1,5 @@
 #include "/home/codeleaded/System/Static/Library/WindowEngine.h"
+#include "/home/codeleaded/System/Static/Library/Geometry.h"
 
 #define PADDLE_1_POSX       0.05f
 #define PADDLE_2_POSX       0.95f
